@@ -1,0 +1,42 @@
+{
+  "niche": "教育",
+  "format": "9:16竖版 768x1376 JPG",
+  "slides": [
+    {
+      "slide": 1,
+      "type": "hook",
+      "title": "为什么90%的人学了就忘？",
+      "prompt": "Design a bold vertical mobile poster (9:16 ratio, 768x1376px). Main headline in large bold Chinese text: '为什么90%的人学了就忘？' centered in the upper 60% of the image. Use a deep navy blue (#1a237e) background with bright yellow-gold (#FFD600) headline text. Add a subtle glowing question mark icon behind the text. Style: modern flat design, clean and striking. Leave the bottom 20% completely empty (no text, no graphics). Font: bold sans-serif. The overall vibe should be thought-provoking and attention-grabbing."
+    },
+    {
+      "slide": 2,
+      "type": "pain_point",
+      "title": "刷了200道题，换个考法还是不会",
+      "prompt": "Design a vertical mobile poster (9:16 ratio, 768x1376px). Scene: a student sitting at a desk late at night, head in hands, surrounded by stacks of papers and books, looking frustrated. Overlay text in large bold white: '刷了200道题，换个考法还是不会' positioned in the upper portion. Background: dark moody blue-gray tones. Add a subtle crossed-out checkbox icon. Style: photo-realistic with text overlay, emotional and relatable. Bottom 20% must be empty. Font: bold sans-serif white text with slight shadow for readability."
+    },
+    {
+      "slide": 3,
+      "type": "amplify",
+      "title": "继续这样学，3年也考不上目标分数",
+      "prompt": "Design a vertical mobile poster (9:16 ratio, 768x1376px). Visual: a downward arrow path / declining graph showing wasted effort, with a calendar ticking away in the background. Main text in bold large orange-red (#FF5722): '继续这样学，3年也考不上目标分数' in the upper area. Below the text, show a simple downward curve graphic. Background: dark navy gradient getting darker toward bottom. Style: urgent, alarming, data-driven feel. Bottom 20% empty. Font: bold sans-serif, orange-red with white outline."
+    },
+    {
+      "slide": 4,
+      "type": "solution",
+      "title": "AI诊断薄弱点 → 精准刷题 → 3轮巩固",
+      "prompt": "Design a vertical mobile poster (9:16 ratio, 768x1376px). Visual: a clean 3-step flow diagram with connected arrows going left-to-right: '① AI诊断薄弱点' → '② 精准刷题' → '③ 3轮巩固'. Use bright hopeful colors: clean white/light blue background, step circles in vibrant blue (#2196F3) with white text inside, arrows in gold (#FFD600). The mood shifts from dark to bright — this is the turnaround moment. Style: modern infographic, clean and optimistic. Bottom 20% empty. Font: bold sans-serif."
+    },
+    {
+      "slide": 5,
+      "type": "proof",
+      "title": "10万+学员，平均提分23分",
+      "prompt": "Design a vertical mobile poster (9:16 ratio, 768x1376px). Visual: a large prominent number display — '10万+' in massive gold (#FFD600) bold text and '平均提分23分' in large white text below. Add a simple bar chart showing before/after score comparison (bar going from short to tall). Include a small quote card: '用了2周，模考从420涨到510 — 小李，高三'. Background: deep blue (#1565C0) gradient. Style: data-driven credibility, clean and professional. Bottom 20% empty. Font: bold sans-serif."
+    },
+    {
+      "slide": 6,
+      "type": "cta",
+      "title": "评论区扣1，免费领提分秘籍",
+      "prompt": "Design a vertical mobile poster (9:16 ratio, 768x1376px). Visual: a large glowing button-like element in the center area with text '扣1 免费领取' in white on vibrant green (#4CAF50) background. Above it: '评论区扣1，免费领提分秘籍' in large bold white text. Add a downward pointing arrow emoji/element pointing toward the comment area. Add subtle sparkle/glow effects around the button. Background: gradient from blue to purple, energetic and action-driving. Style: bold CTA, impossible to ignore. Bottom 20% empty. Font: extra bold sans-serif."
+    }
+  ]
+}

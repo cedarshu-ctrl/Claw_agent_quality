@@ -1,0 +1,27 @@
+{
+  "name": "sql-report-gen",
+  "version": "3.0.0",
+  "scene": " SQL自动生成与报表工具",
+  "category": "开发提效",
+  "subtitle": "不会写SQL？用自然语言描述需求自动生成查询语句",
+  "target_user": "运营人员、产品经理、数据分析师",
+  "core_need": "不会 SQL 也能快速查询和分析数据",
+  "trigger_words": [
+    "查数据",
+    "写SQL",
+    "生成报表"
+  ],
+  "output_format": "SQL 语句 + 查询结果表格 + Excel 文件",
+  "priority": "P2",
+  "tools": [
+    "write_to_file",
+    "execute_command",
+    "execute_command (pandas)"
+  ],
+  "dependencies": [
+    "db-assistant"
+  ],
+  "real_objects": "数据库连接、SQL 脚本（execute_command）、Excel 报表",
+  "deliverables": "SQL 语句文件、Excel 数据报表",
+  "need_external_search": "否"
+}

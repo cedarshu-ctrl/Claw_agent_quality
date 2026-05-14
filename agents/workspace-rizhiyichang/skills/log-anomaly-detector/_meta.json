@@ -1,0 +1,27 @@
+{
+  "name": "log-anomaly-detector",
+  "version": "3.0.0",
+  "scene": "日志聚合与异常识别",
+  "category": "开发提效",
+  "subtitle": "智能日志分析",
+  "target_user": "运维工程师、后端开发、SRE",
+  "core_need": "快速定位系统异常和根因",
+  "trigger_words": [
+    "分析日志",
+    "异常检测",
+    "日志"
+  ],
+  "output_format": "Markdown 分析报告 + 统计图表",
+  "priority": "P2",
+  "tools": [
+    "write_to_file",
+    "read_file",
+    "execute_command"
+  ],
+  "dependencies": [
+    "log-analyzer"
+  ],
+  "real_objects": "日志文件（read_file）、Python 脚本（execute_command）",
+  "deliverables": "日志分析报告（Markdown）、告警规则建议",
+  "need_external_search": "否"
+}
