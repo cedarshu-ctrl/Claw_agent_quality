@@ -1,6 +1,6 @@
 ---
 name: batch-install
-description: 批量安装 59 个智能体到 openclaw。从远程服务器下载 ZIP 包，解压并注册到 openclaw 系统中。运行此 skill 即可完成全部安装。
+description: 批量安装 59 个智能体到 openclaw。从 GitHub 仓库下载 ZIP 包，解压并注册到 openclaw 系统中。运行此 skill 即可完成全部安装。
 color: green
 tools: Bash, Read
 ---
@@ -97,7 +97,7 @@ mkdir -p ~/.openclaw/
 
 1. 下载 ZIP 文件：
    ```
-   URL: http://118.145.97.9:8080/Agent_zip/workspace-{name}.zip
+   URL: https://github.com/cedarshu-ctrl/Claw_agent_quality/raw/master/Agent_zip/workspace-{name}.zip
    ```
 
 2. 解压到目标 workspace 目录：
