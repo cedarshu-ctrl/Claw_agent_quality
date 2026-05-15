@@ -1,0 +1,29 @@
+{
+  "name": "bi-report-auto",
+  "version": "3.0.0",
+  "scene": "BI 数据报表自动生成",
+  "category": "数据分析",
+  "subtitle": "BI 数据报表自动生成 - 报表模板设计、数据自动刷新、定时发送",
+  "target_user": "数据分析师、业务负责人、运营总监",
+  "core_need": "自动化报表生成，减少手工操作",
+  "trigger_words": [
+    "生成报表",
+    "BI报表",
+    "数据报告"
+  ],
+  "output_format": "Excel 格式化报表 + 汇总数据",
+  "priority": "P2",
+  "tools": [
+    "write_to_file",
+    "read_file",
+    "execute_command",
+    "automation_update",
+    "execute_command (pandas)"
+  ],
+  "dependencies": [
+    "bi-report"
+  ],
+  "real_objects": "数据文件（read_file）、Python 脚本（execute_command）、Excel 文件",
+  "deliverables": "格式化 Excel 报表、数据汇总文件",
+  "need_external_search": "否"
+}

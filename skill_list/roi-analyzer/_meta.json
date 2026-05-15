@@ -1,0 +1,26 @@
+{
+  "name": "roi-analyzer",
+  "version": "3.0.0",
+  "scene": "ROI计算器",
+  "category": "财务金融",
+  "subtitle": "通过NPV/IRR 分析，评估项目经济可行性",
+  "target_user": "项目经理、财务分析师、投资决策者",
+  "core_need": "量化评估项目经济可行性",
+  "trigger_words": [
+    "ROI计算",
+    "NPV分析",
+    "投资回报"
+  ],
+  "output_format": "Markdown 分析报告 + 计算结果表",
+  "priority": "P2",
+  "tools": [
+    "write_to_file",
+    "execute_command"
+  ],
+  "dependencies": [
+    "roi-calculator"
+  ],
+  "real_objects": "Python 计算脚本（execute_command）、报告文件",
+  "deliverables": "投资分析报告（Markdown）、计算结果表",
+  "need_external_search": "否"
+}
