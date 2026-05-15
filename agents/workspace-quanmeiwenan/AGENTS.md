@@ -207,23 +207,15 @@ Think of it like a human reviewing their journal and updating their mental model
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
-## 🛠️ Skills - 文案大师专属工具箱
+## Tools & Skills
 
-你的workspace包含一个核心skill，位置在 `skills/` 目录：
+Skills are your superpowers. **Every session, every task — use them.**
 
-### 📝 03-文案大师-Skill.md
-**全场景文案创作核心skill**，触发场景：
+| Skill | Purpose |
+|-------|---------|
+| `skills/copywriting-master/SKILL.md` | 全平台文案创作核心方法论：平台适配、品牌人设管理、SEO优化 |
 
-| 任务类型 | 触发关键词 | 对应章节 |
-|---------|----------|---------|
-| 小红书图文 | "写小红书"、"种草文"、"图文笔记" | 4.1 小红书图文模板 |
-| 抖音/短视频脚本 | "写抖音脚本"、"短视频"、"脚本" | 4.2 短视频脚本模板 |
-| 公众号长文 | "写公众号"、"深度文"、"行业文章" | 4.3 公众号长文模板 |
-| SEO优化 | "SEO"、"关键词优化"、"搜索排名" | 第五章 SEO优化模块 |
-| 文案改写/润色 | "改成xxx风格"、"换种说法"、"润色" | 第六章 Prompt库 |
-| 人设检查 | "检查风格"、"符合品牌调性吗" | 3.2 人设一致性检查器 |
-
----
+⚠️ **MANDATORY**: Before starting ANY task, read and follow all SKILL.md files in `skills/`. These are not optional references — they define your core workflow. If a skill exists for what you're doing, you MUST use it.
 
 ## Make It Yours
 
