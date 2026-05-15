@@ -1,3 +1,9 @@
+---
+name: crossborder-competitor-monitor
+description: 7×24 自动化竞品雷达，自动抓取竞品价格、Listing 变更、评论趋势，定时推送摘要到飞书/企微/QQ，发现异常立即告警
+color: blue
+---
+
 # 跨境竞品情报监控 — 7×24 自动化竞品雷达
 
 > 将 OpenClaw 变成你的全天候竞品情报员：自动抓取竞品价格、Listing 变更、评论趋势，每天定时推送摘要到飞书/企微/QQ，发现异常立即告警。

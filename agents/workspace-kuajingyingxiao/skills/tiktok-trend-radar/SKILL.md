@@ -1,3 +1,9 @@
+---
+name: tiktok-trend-radar
+description: 全自动 TikTok 和 Instagram 趋势监控流水线，实时抓取热门内容并由 AI 分析生成内容创意、视频脚本和话题标签预警
+color: pink
+---
+
 # Automated TikTok & Instagram Trend Radar Skill
 
 ## Overview

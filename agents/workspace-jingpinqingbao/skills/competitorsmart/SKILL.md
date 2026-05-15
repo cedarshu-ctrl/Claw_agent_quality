@@ -1,3 +1,9 @@
+---
+name: competitorsmart
+description: 基于 LangGraph ReAct Agent 的开源竞品情报工具，自动搜索、抓取、推理，生成 11 模块深度 Markdown 竞品分析报告，专为产品经理和跨境电商运营设计
+color: orange
+---
+
 # CompetitorSmart — AI 竞品深度分析 Agent
 
 > 基于 LangGraph ReAct Agent 的开源竞品情报工具，自动搜索、抓取、推理，生成 11 模块深度 Markdown 竞品分析报告。专为产品经理 / 跨境电商运营设计。
